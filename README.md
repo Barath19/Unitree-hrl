@@ -5,6 +5,7 @@ Unitree Go1 Repository for HRL (Bonn)
 
 ## Connecting to the UniTree-Go
 - The Unitree-GO1 has four boards. Please refer [Unitree-docs](https://www.docs.quadruped.de/projects/go1/html/quick_start.html#network-setup)
+- Detailed version of the docs is available at [Unitree](https://unitree-docs.readthedocs.io/en/latest/get_started/Go1_Edu.html)
 - We will connect to the nano (Body) to access the `/scan` topic.
 - Connect using `ssh -X 192.168.123.15`
 - Once logged in, type `rostopic list`
